@@ -19,5 +19,5 @@ $(function() {
 			})
 	})();
 	$(".banner .account").show().animate({top:"35px"},1200, "easeOutBack");
-	$("#jCarouselLite_profit").jCarouselLite({auto: 2000,speed: 1400,visible:1,vertical:true,scroll:1});
+	// $("#jCarouselLite_profit").jCarouselLite({auto: 2000,speed: 1400,visible:1,vertical:true,scroll:1});
 });

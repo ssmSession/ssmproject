@@ -173,7 +173,7 @@ b,h1,h2,h3,h4,h5{font-size:100%;font-weight:normal}
 .icon-ft-sina{width:30px; height:30px; background-position: -151px 0px;}
 .icon-ft-weixin{width:30px; height:30px; background-position: -181px 0px; }
 .icon-ft-weixin.cur{width:30px; height:30px; background-position: -181px -30px;}
-.icon-ft-qun{ width:30px; height:30px; background:url(../images/icon-qun.jpg) 0 0 no-repeat; overflow:hidden; float:left; margin-right: 7px;}
+.icon-ft-qun{ width:30px; height:30px; background:url(images/icon-qun.jpg) 0 0 no-repeat; overflow:hidden; float:left; margin-right: 7px;}
 .icon-ft-qun-cur{ width:30px; height:30px; background:url(images/icon-qun.jpg) 0 -30px no-repeat;  overflow:hidden; float:left;}
 .icon-ft-tishi{width:19px; height:19px; background-position: -287px 0px;}
 .icon-ft-phone{width:68px; height:135px; background-position: -219px 0px;}
